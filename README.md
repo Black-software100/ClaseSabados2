@@ -1,2 +1,3 @@
 # ClaseSabados2
-Condicional y ciclos python
+## Descripcion
+proyecto que busca mostrar ejemplos de logica con condicionales ciclos y esctructura de datos
